@@ -18,3 +18,8 @@ The Rolling Scopes School Student
 ## Education
 ****
  - The Rolling Scopes School Stage 0 (in progress)
+## Languages
+****
+ - English- A2
+ - Ukrainian- Native
+ - Russian- Native
